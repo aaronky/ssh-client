@@ -15,6 +15,7 @@ This jail has the following utilities installed by default:
 	terminator
 	screen
 	passwordsafe
+  knock
 
 These should be a good base for using ssh to connect securely to remote systems.
 
